@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+/* Kebab case */
+.display-result-red{
+color: red;
+}
+
+
+.display-location-blue{
+    color: blue;
+}
+
+#🎶{
+    font-size: 5rem;
+    text-align: center;
+    transition-duration: 2s;
+}
+
+.flipped{
+    transform: rotate(0.50turn);
+}
